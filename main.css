@@ -62,7 +62,7 @@ main .section1 .section{
     height: 70%;
     width: 100%;
     /* background-color: grey; */
-    background-image: url(./download.jpg);
+    background-image: url(download.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
